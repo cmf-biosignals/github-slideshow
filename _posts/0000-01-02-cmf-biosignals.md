@@ -1,3 +1,7 @@
-my text
-line 1
-line 2
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+The new text is:
+Use the left arrow to go back!
+
